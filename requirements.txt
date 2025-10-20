@@ -1,0 +1,9 @@
+# Medical Note Template System
+# No external dependencies required - uses only Python standard library
+#
+# Tested with Python 3.8+
+#
+# For development/testing:
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
